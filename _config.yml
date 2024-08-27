@@ -21,6 +21,8 @@ minimal_mistakes_skin: "plum" # "default" "air", "aqua", ...
 locale: "ko-KR" #"en-US"
 title: "SABUJAK" # 상단 헤더에 보이는 블로그 명
 title_separator: "&#124;"
+future: true;
+published: true;
 subtitle: # site tagline that appears below site title in masthead
 name: "dailybear" # 블로그 닉네임 설정
 description: "this is my blog!" # 블로그 설명
